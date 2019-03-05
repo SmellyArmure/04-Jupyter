@@ -1,0 +1,6 @@
+Bonjour,
+Voici les données et le fichier notebook.
+J'ai essayé de respecter les consignes.
+Je me suis aussi amusée à recalculer les données statistiques calculées par numpy et à vérifier qu'on retrouve bien la même chose que via le module scikit-learn.
+(NB : je me suis aperçue au passage qu'il fallait vraiment faire attention avec la méthode .cov qui calcule la covariance sous numpy...)
+Bonne continuation à vous.
